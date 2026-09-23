@@ -1,6 +1,6 @@
-# GATE CSE 2027 — C, Data Structures & Algorithms Notes
+# GATE CSE — C, Data Structures & Algorithms Notes
 
-Exam-oriented, chapter-wise notes for **GATE CSE 2027** covering **C Programming, Data Structures and Algorithms**.
+Exam-oriented, chapter-wise notes for **GATE CSE** covering **C Programming, Data Structures and Algorithms**.
 Prepared while following **Amit Khurana Sir's GATE CSE course**, and combined with theory from standard reference books.
 
 > **Language:** English.
